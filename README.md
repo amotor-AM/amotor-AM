@@ -3,9 +3,10 @@
 My name is Alex Motor and I am a full stack web developer. You can check out my portfolio which is hosted [here](https://portfolio-86140.web.app/)
 
 ## 🔭 I’m currently working on...
-- creating a full stack ecommerce store. You can see the progress [here](https://github.com/amotor-AM/crypto-tees)
+- creating a full stack ecommerce store. You can see the progress from the repo which is linked at the bottom of the page
 - creating a Proof-of-work Blockchain. I have fully finished the backend using test driven development. 
-I am currently working on building out the blockchain explorer with React. You can see review the project [here](https://github.com/amotor-AM/Full-Stack-Cryptocurrency)
+I am currently working on building out the blockchain explorer with React. You can see review the project from the link at the 
+bottom of the page
 
 ## 🌱 I’m currently learning ...
 - Computer Science with Python. This is pretty challenging for me but I am determined to learn as
