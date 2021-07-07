@@ -17,11 +17,11 @@ much as possible.
  
  
 # Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amotor-AM&langs_count=5&theme=radical&layout=compact)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amotor-AM&count_private=true&theme=radical&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amotor-AM&langs_count=5&theme=gotham&layout=compact)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amotor-AM&count_private=true&theme=gotham&showicons=true&hide=issues)]()
 
-#Cool Projects
-[![Covid Tracker](https://github-readme-stats.vercel.app/api/pin/?username=amotor-AM&repo=us-covid-stats)](https://github.com/amotor-AM/us-covid-stats)
+# Cool Projects
+[![Crypto Tees](https://github-readme-stats.vercel.app/api/pin/?username=amotor-AM&repo=crypto-tees)](https://github.com/amotor-AM/crypto-tees)
 [![Full Stack Cryptocurrency](https://github-readme-stats.vercel.app/api/pin/?username=amotor-AM&repo=Full-Stack-Cryptocurrency)](https://github.com/amotor-AM/Full-Stack-Cryptocurrency)
 
 
