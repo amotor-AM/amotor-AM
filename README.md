@@ -5,7 +5,8 @@ My name is Alex Motor and I am a full stack web developer. You can check out my 
 ## 🔭 I’m currently working on...
 - creating a full stack ecommerce store. You can see the progress from the repo which is linked at the bottom of the page
 - creating a Proof-of-work Blockchain. I have fully finished the backend using test driven development. 
-I am currently working on building out the blockchain explorer with React. You can see review the project from the link at the 
+I am currently working on building 
+out the blockchain explorer with React. You can see review the project from the link at the 
 bottom of the page
 
 ## 🌱 I’m currently learning ...
