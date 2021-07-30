@@ -10,8 +10,7 @@ out the blockchain explorer with React. You can see review the project from the 
 bottom of the page
 
 ## 🌱 I’m currently learning ...
-- Computer Science with Python. This is pretty challenging for me but I am determined to learn as
-much as possible. 
+- Redis database hosting and management as well as AWS deployment for databases. I am going to be using Redis as a front-end database for my full stack ecommerce store because it is the fastest non-relational database and will lead to increased page load speeds. 
 
  ## 📫 How to reach me: ...
  - You can get in touch with me using the contact form on my portfolio or feel free to 
