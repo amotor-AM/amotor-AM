@@ -24,7 +24,7 @@ bottom of the page
 # Languages and Tools
 <img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Postman" width="30px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
-<img align="left" alt="NPM" width="30px" src="https://img.icons8.com/windows/32/000000/npm.png" color="red"/>
+<img align="left" alt="NPM" width="30px" src="https://img.icons8.com/windows/32/000000/npm.png" style={{"Color: #C50001"}}/>
 <img align="left" alt="Node" width="30px" src="https://img.icons8.com/windows/32/000000/node-js.png" color="#8CC84B"/>
 <img img align="left" alt="Wordpress" width="30px" src="https://img.icons8.com/ios/50/000000/wordpress--v2.png" color="#2C99C7"/>
 <img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
@@ -35,7 +35,7 @@ bottom of the page
 <img align="left" alt="Redux" width="30px" src="https://img.icons8.com/color/48/000000/redux.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Postgres" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-</n>
+</br>
 <a href="https://icons8.com">icons by Icons8</a>
 
 
