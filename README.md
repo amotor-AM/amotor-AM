@@ -18,11 +18,11 @@ bottom of the page
  
  # Languages and Tools
 <img align="left" alt="Visual Studio Code" width="45.5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Postman" width="45.5px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" />
+<img align="left" alt="Postman" width="44.5px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" />
 <img align="left" alt="NPM" width="45.5px" src="https://img.icons8.com/color/48/000000/npm.png" />
 <img align="left" alt="Node" width="45.5px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img img align="left" alt="Wordpress" width="45.5px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
-<img align="left" alt="HTML5" width="45.5px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
+<img align="left" alt="HTML5" width="45.5px" src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" />
 <img align="left" alt="CSS 3" width="45.5px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="45.5px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
 <img align="left" alt="Python" width="45.5px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
