@@ -16,12 +16,7 @@ bottom of the page
  - You can get in touch with me using the contact form on my portfolio or feel free to 
  add me on [LinkedIn](https://www.linkedin.com/in/alex-motor-324b9792/)
  
- 
-# Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amotor-AM&langs_count=5&theme=gotham&layout=compact)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amotor-AM&count_private=true&theme=gotham&showicons=true&hide=issues)]()
-
-# Languages and Tools
+ # Languages and Tools
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Postman" width="48px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 <img align="left" alt="NPM" width="48px" src="https://img.icons8.com/color/48/000000/npm.png" />
@@ -36,9 +31,11 @@ bottom of the page
 <img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Postgres" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <br />
-<a href="https://icons8.com">icons by Icons8</a>
-
-
+<div><a href="https://icons8.com">icons by Icons8</a></div>
+ 
+# Stats
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amotor-AM&langs_count=5&theme=gotham&layout=compact)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amotor-AM&count_private=true&theme=gotham&showicons=true&hide=issues)]()
 
 # Cool Projects
 [![Crypto Tees](https://github-readme-stats.vercel.app/api/pin/?username=amotor-AM&repo=crypto-tees)](https://github.com/amotor-AM/crypto-tees)
