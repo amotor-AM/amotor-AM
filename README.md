@@ -18,19 +18,19 @@ bottom of the page
  
  # Languages and Tools
 <img align="left" alt="Visual Studio Code" width="45px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Postman" width="45px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
-<img align="left" alt="NPM" width="45px" src="https://img.icons8.com/color/48/000000/npm.png" />
-<img align="left" alt="Node" width="45px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img img align="left" alt="Wordpress" width="47px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
-<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
-<img align="left" alt="CSS 3" width="45px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-<img align="left" alt="Python" width="45px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
-<img align="left" alt="React" width="45px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" />
-<img align="left" alt="Redux" width="45px" src="https://img.icons8.com/color/48/000000/redux.png" />
-<img align="left" alt="MongoDB" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Postgres" width="45px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<br />\
+<img align="left" alt="Postman" width="46px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
+<img align="left" alt="NPM" width="46px" src="https://img.icons8.com/color/48/000000/npm.png" />
+<img align="left" alt="Node" width="46px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img img align="left" alt="Wordpress" width="46px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
+<img align="left" alt="HTML5" width="46px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
+<img align="left" alt="CSS 3" width="46px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="JavaScript" width="46px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img align="left" alt="Python" width="46px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
+<img align="left" alt="React" width="46px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" />
+<img align="left" alt="Redux" width="46px" src="https://img.icons8.com/color/48/000000/redux.png" />
+<img align="left" alt="MongoDB" width="46px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Postgres" width="46px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<br />
 
  
 # Stats
