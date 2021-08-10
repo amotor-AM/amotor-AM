@@ -31,7 +31,7 @@ bottom of the page
 <img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Postgres" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <br />
-<div><a href="https://icons8.com">icons by Icons8</a></div>
+# <a href="https://icons8.com">icons by Icons8</a>
  
 # Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amotor-AM&langs_count=5&theme=gotham&layout=compact)]()
