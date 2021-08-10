@@ -30,6 +30,7 @@ bottom of the page
 <img align="left" alt="Redux" width="45.5px" src="https://img.icons8.com/color/48/000000/redux.png" />
 <img align="left" alt="MongoDB" width="45.5px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Postgres" width="45.5px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<a href="www.icons8.com">Icons from icons8</a>
 <br />
 <br />
 
