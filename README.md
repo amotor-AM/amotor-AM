@@ -22,7 +22,7 @@ bottom of the page
 <img align="left" alt="NPM" width="45.5px" src="https://img.icons8.com/color/48/000000/npm.png" />
 <img align="left" alt="Node" width="45.5px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img img align="left" alt="Wordpress" width="45.5px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
-<img align="left" alt="HTML5" width="45.5px" src="https://postimg.cc/1fnwsbLm" />
+<img align="left" alt="HTML5" width="45.5px" src="https://i.postimg.cc/SNVr7hdM/html5-Icon-removebg-preview.png" />
 <img align="left" alt="CSS 3" width="45.5px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="45.5px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
 <img align="left" alt="Python" width="45.5px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
