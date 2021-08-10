@@ -22,20 +22,20 @@ bottom of the page
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amotor-AM&count_private=true&theme=gotham&showicons=true&hide=issues)]()
 
 # Languages and Tools
-<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Postman" width="30px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
-<img align="left" alt="NPM" width="30px" src="https://img.icons8.com/color/48/000000/npm.png" />
-<img align="left" alt="Node" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img img align="left" alt="Wordpress" width="30px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
-<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
-<img align="left" alt="CSS 3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
-<img align="left" alt="React" width="30px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" />
-<img align="left" alt="Redux" width="30px" src="https://img.icons8.com/color/48/000000/redux.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Postgres" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-</br>
+<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Postman" width="48px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
+<img align="left" alt="NPM" width="48px" src="https://img.icons8.com/color/48/000000/npm.png" />
+<img align="left" alt="Node" width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img img align="left" alt="Wordpress" width="48px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
+<img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-filetype--v2.png" />
+<img align="left" alt="CSS 3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img align="left" alt="Python" width="48px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
+<img align="left" alt="React" width="48px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" />
+<img align="left" alt="Redux" width="48px" src="https://img.icons8.com/color/48/000000/redux.png" />
+<img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Postgres" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<br />
 <a href="https://icons8.com">icons by Icons8</a>
 
 
