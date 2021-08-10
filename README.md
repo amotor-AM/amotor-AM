@@ -18,7 +18,7 @@ bottom of the page
  
  # Languages and Tools
 <img align="left" alt="Visual Studio Code" width="45.5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Postman" width="45.5px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
+<img align="left" alt="Postman" width="45.5px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" />
 <img align="left" alt="NPM" width="45.5px" src="https://img.icons8.com/color/48/000000/npm.png" />
 <img align="left" alt="Node" width="45.5px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img img align="left" alt="Wordpress" width="45.5px" src="https://img.icons8.com/color/48/000000/wordpress.png" />
